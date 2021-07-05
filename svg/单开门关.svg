@@ -1,0 +1,20 @@
+<svg id="单开门关" xmlns="http://www.w3.org/2000/svg" width="400" height="800" viewBox="0 0 400 800">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #556fb5;
+      }
+
+      .cls-2 {
+        fill: #e5e5e5;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="矩形_39" data-name="矩形 39" class="cls-1" width="400" height="800" rx="40" ry="40"/>
+  <rect id="矩形_39_拷贝" data-name="矩形 39 拷贝" class="cls-2" x="34" y="35" width="332" height="731" rx="20" ry="20"/>
+  <path id="矩形_40" data-name="矩形 40" class="cls-3" d="M113,743a10,10,0,0,1-10-10V67a10,10,0,0,1,10-10H389V743H113ZM103,183h12v68H103V183Zm0,183h12v68H103V366Zm0,183h12v68H103V549ZM331,320h34V434H331V320Zm-46,22h46v24H285V342Z" transform="translate(-46)"/>
+</svg>

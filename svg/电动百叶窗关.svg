@@ -1,0 +1,21 @@
+<svg id="电动百叶窗关" xmlns="http://www.w3.org/2000/svg" width="580" height="800" viewBox="0 0 580 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f1f1f1;
+        stroke: gray;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <path id="矩形_46" data-name="矩形 46" class="cls-1" d="M148,35H648V75H148V35Zm0,40H648v40H148V75Zm0,40H648v40H148V115Zm0,40H648v40H148V155Zm0,40H648v40H148V195Zm0,40H648v40H148V235Zm0,40H648v40H148V275Zm0,40H648v40H148V315Zm0,40H648v40H148V355Zm0,40H648v40H148V395Zm0,40H648v40H148V435Zm0,40H648v40H148V475Zm0,40H648v40H148V515Zm0,40H648v40H148V555Zm0,40H648v40H148V595Zm0,40H648v40H148V635Zm0,40H648v40H148V675Zm0,40H648v40H148V715Z" transform="translate(-110)"/>
+  <path id="电动百叶窗" class="cls-2" d="M110,0H690V800H110V0Zm38,35H648V755H148V35Z" transform="translate(-110)"/>
+</svg>

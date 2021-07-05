@@ -1,0 +1,20 @@
+<svg id="运行模式" xmlns="http://www.w3.org/2000/svg" width="799.875" height="799.875" viewBox="0 0 799.875 799.875">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+      }
+
+      .cls-2 {
+        fill: #a6a6a6;
+      }
+
+      .cls-3 {
+        fill: #f1f1f1;
+      }
+    </style>
+  </defs>
+  <circle id="椭圆_14" data-name="椭圆 14" class="cls-1" cx="399.922" cy="399.922" r="399.953"/>
+  <circle id="椭圆_15" data-name="椭圆 15" class="cls-2" cx="411.219" cy="411.922" r="302.688"/>
+  <circle id="椭圆_15_拷贝" data-name="椭圆 15 拷贝" class="cls-3" cx="342.765" cy="342.765" r="323.765"/>
+</svg>

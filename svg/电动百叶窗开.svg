@@ -1,0 +1,21 @@
+<svg id="电动百叶窗开" xmlns="http://www.w3.org/2000/svg" width="580" height="800" viewBox="0 0 580 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #f1f1f1;
+        stroke: gray;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path id="电动百叶窗" class="cls-1" d="M110,0H690V800H110V0Zm38,35H648V755H148V35Z" transform="translate(-110)"/>
+  <path id="矩形_46" data-name="矩形 46" class="cls-2" d="M148,37H648l6,20H154Zm0,38H648l7,21H155Zm0,40H648l6,22H154Zm0,40H648l7,23H155Zm0,40H648l8,22H156Zm0,40H648l9,22H157Zm0,40H648l11,23H159Zm0,40H648l11,23H159Zm0,40H648l12,23H160Zm0,40H648l12,23H160Zm0,40H648l13,20H161Zm0,40H648l14,21H162Zm0,40H648l15,22H163Zm0,40H648l16,23H164Zm0,40H648l18,24H166Zm0,40H648l18,25H166Zm0,40H648l19,26H167Zm0,40H648l20,28H168Z" transform="translate(-110)"/>
+</svg>

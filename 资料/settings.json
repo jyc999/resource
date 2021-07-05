@@ -1,0 +1,74 @@
+{
+	"breadcrumbs.enabled": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true,
+		"source.fixAll.stylelint": true
+	},
+	"editor.detectIndentation": false,
+	"editor.fontFamily": "Fira Code, Consolas, Courier New, monospace",
+	"editor.fontLigatures": true,
+	"editor.formatOnPaste": true,
+	//"editor.formatOnSave": true,
+	"editor.formatOnType": true,
+	"editor.insertSpaces": false,
+	"editor.minimap.enabled": true,
+	//"eslint.autoFixOnSave": true,
+	"eslint.options": {
+		"extensions": [
+			".js",
+			".vue"
+		]
+	},
+	"eslint.validate": [
+		"javascript",
+		"javascriptreact",
+		"html",
+		"vue"
+	],
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"files.associations": {
+		"*.vue": "vue"
+	},
+	"git.enabled": false,
+	"git.ignoreMissingGitWarning": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"telemetry.enableCrashReporter": false,
+	"telemetry.enableTelemetry": false,
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+	"update.enableWindowsBackgroundUpdates": false,
+	"update.mode": "manual",
+	"update.showReleaseNotes": false,
+	"vetur.format.defaultFormatter.html": "prettier",
+	"vetur.format.defaultFormatter.css": "prettier",
+	"vetur.format.defaultFormatter.postcss": "prettier",
+	"vetur.format.defaultFormatter.scss": "prettier",
+	"vetur.format.defaultFormatter.less": "prettier",
+	"vetur.format.defaultFormatter.stylus": "stylus-supremacy",
+	"vetur.format.defaultFormatter.js": "prettier",
+	"vetur.format.defaultFormatter.ts": "prettier",
+	"vetur.format.defaultFormatterOptions": {
+		"prettier": {
+			"singleQuote": true, // 用单引号
+			"printWidth": 150, // 换行字符串阈值
+			"semi": false, // 句末加分号
+			"trailingComma": "none", // 最后一个对象元素加逗号
+			"bracketSpacing": true, // 对象，数组加空格
+			"jsxBracketSameLine": false, // jsx > 是否另起一行
+			"arrowParens": "avoid", // (x) => {} 是否要有小括号
+			"requirePragma": false, // 是否要注释来决定是否格式化代码
+			"proseWrap": "preserve", // 是否要换行
+		}
+	},
+	"vetur.format.options.tabSize": 4,
+	"vetur.format.options.useTabs": true,
+	"vsicons.dontShowNewVersionMessage": true,
+	"window.openFilesInNewWindow": "on",
+	"window.openFoldersInNewWindow": "on",
+	"workbench.colorTheme": "Monokai Dimmed",
+	"workbench.iconTheme": "vscode-icons",
+	"workbench.startupEditor": "newUntitledFile",
+	"security.workspace.trust.enabled": false,
+}

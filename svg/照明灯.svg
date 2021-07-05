@@ -1,0 +1,28 @@
+<svg id="照明灯" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="403" viewBox="0 0 800 403">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #facd89;
+      }
+
+      .cls-3 {
+        fill: #c6c6c6;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="400" y1="605" x2="400" y2="385" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe88a" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ffe88a"/>
+    </linearGradient>
+  </defs>
+  <path id="矩形_47" data-name="矩形 47" class="cls-1" d="M99,385H711l89,220H0Z" transform="translate(0 -202)"/>
+  <path id="矩形_24" data-name="矩形 24" class="cls-2" d="M750.994,286c-0.271,97.8-69.631,137-167.494,137h-367c-97.863,0-167.223-39.2-167.494-137H750.994Z" transform="translate(0 -202)"/>
+  <rect id="矩形_7" data-name="矩形 7" class="cls-3" width="800" height="134"/>
+</svg>

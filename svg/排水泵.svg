@@ -1,0 +1,31 @@
+<svg id="排水泵" xmlns="http://www.w3.org/2000/svg" width="678" height="800" viewBox="0 0 678 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #959595;
+      }
+
+      .cls-1, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #bcbcbc;
+      }
+
+      .cls-3 {
+        fill: #e5e5e5;
+      }
+
+      .cls-4 {
+        fill: #556fb5;
+      }
+    </style>
+  </defs>
+  <path id="矩形_22" data-name="矩形 22" class="cls-1" d="M126,32H270V448H126V32ZM493,559H753V702H493V559Z" transform="translate(-103)"/>
+  <path id="矩形_23" data-name="矩形 23" class="cls-1" d="M226.167,656.369H492.9l55.57,144.479H170.6Z" transform="translate(-103)"/>
+  <circle id="椭圆_1" data-name="椭圆 1" class="cls-2" cx="252" cy="516" r="240"/>
+  <circle id="椭圆_1_拷贝" data-name="椭圆 1 拷贝" class="cls-3" cx="252" cy="516" r="195"/>
+  <path id="矩形_2" data-name="矩形 2" class="cls-4" d="M349.418,509.329c-37.252-2.885-66.684-33.687-66.684-71.681s29.432-68.793,66.684-71.68V509.329Zm11.113,156.289a72.618,72.618,0,0,0,0-144.751V665.618Zm0.936-155.73a72.039,72.039,0,0,1,143.679,0H361.467ZM204.8,521a72.795,72.795,0,0,0,145.075,0H204.8Z" transform="translate(-103)"/>
+  <path id="圆角矩形_4" data-name="圆角矩形 4" class="cls-5" d="M119.5,0h157a16.5,16.5,0,0,1,0,33h-157A16.5,16.5,0,0,1,119.5,0Zm645,536A16.5,16.5,0,0,1,781,552.5v156a16.5,16.5,0,0,1-33,0v-156A16.5,16.5,0,0,1,764.5,536Z" transform="translate(-103)"/>
+</svg>

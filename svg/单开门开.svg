@@ -1,0 +1,20 @@
+<svg id="单开门开" xmlns="http://www.w3.org/2000/svg" width="398" height="800" viewBox="0 0 398 800">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #556fb5;
+      }
+
+      .cls-2 {
+        fill: #e5e5e5;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="矩形_39" data-name="矩形 39" class="cls-1" width="398" height="800" rx="40" ry="40"/>
+  <rect id="矩形_39_拷贝" data-name="矩形 39 拷贝" class="cls-2" x="33" y="35" width="332" height="731" rx="20" ry="20"/>
+  <path id="矩形_40" data-name="矩形 40" class="cls-3" d="M687,743L411,703V97L687,57a10,10,0,0,1,10,10V733A10,10,0,0,1,687,743ZM435,320h34V434H435V320Zm34,22h46v24H469V342ZM685,183h12v68H685V183Zm0,183h12v68H685V366Zm0,183h12v68H685V549Z" transform="translate(-356)"/>
+</svg>
